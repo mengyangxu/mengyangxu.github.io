@@ -9,14 +9,14 @@
 title: yangbo
 brief-intro: i need a girlfriend ^-^
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yangbo1.github.io" # the base hostname & protocol for your site
+url: "https://mengyangxu.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username: 
 facebook_username: 
-github_username:  yangbo1
+github_username:  mengyangxu
 email: 467198215@qq.com
 weibo_username: 
 zhihu_username: 
