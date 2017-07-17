@@ -3,7 +3,7 @@ layout: post
 title:  "Springmvc笔记"
 categories: springmvc
 tags:  springmvc ssm
-author: yangbo
+author: mengyang
 ---
 
 * content

@@ -3,7 +3,7 @@ layout: post
 title:  "mybatis"
 categories: Mybatis
 tags:  mybatis ssm
-author: yangbo
+author: mengyang
 ---
 
 * content
